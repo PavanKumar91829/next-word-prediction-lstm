@@ -56,7 +56,5 @@ Book: *The Adventures of Sherlock Holmes* by Sir Arthur Conan Doyle.
 ---
 
 ## 🧾 License
-
-This project is licensed under the MIT License.  
 Dataset © Project Gutenberg – Public Domain.
 ---
